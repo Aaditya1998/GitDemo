@@ -9,8 +9,8 @@ class Date{
         this.year = year;
     }
 
-    public String toString() {
-        return (day +" "+month+" "+year);
+    public StriNG TOsTRING() {
+        return (day +"abcd"+month+" "+year);
     }
 }
 public class Program {
